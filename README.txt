@@ -4,13 +4,13 @@
 ****************************** WELCOME ***********************************
 
             
-   To lunch the game you must have python console in your comptuer then when
+   To lunch the game you must have a python console in your computer then when
 
    
    you are in the right directory i mean this directory , use this commande in your bash 
 
    
-   console 'python3 app.py' .
+   console : 'python3 app.py' .
 
 
    Once you're in , click on J or switch the lines to 'comment jouer' to read the notice of  
