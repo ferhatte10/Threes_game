@@ -1,0 +1,74 @@
+Ajouts majeurs : 
+5 Emplacements de sauvegarde
+Scores (locaux et en ligne)
+Statistiques généraux du jeu (Temps de jeu, meilleur score, score cumulé, nomrbe de tuiles aléatoire tirées...)
+Aide au jeu (règles)
+options : 
+ - Destruction de sauvegarde
+ - Changement de la couleur des bordures (pour palier aux différentes couleurs de ternimaux)
+ - Affichage des credits 
+ - Mode rapide de jeu (sans confirmation de touche)
+
+
+
+
+
+FONCTIONS
+
+
+user entreies :
+get_fast_mode : Récupère si le mode fast est activé ou pas
+get_user_custom : Récupère une phrase et un tableau de valeur : permet une saisie controlée
+
+play_display:
+clear_screen : efface l'écran : adaptation windows et linus/macOS
+printc : affiche un message au milieu de l'écran (bibliotheèque)
+
+life_cycle/play:
+delete_save : Supprime une sauvegarge chiosie par l'utilisateur
+get_games   : Récupère les parties enreghistrées
+display_saves : Affiche les sauvegardes enregistrées
+
+scores:
+new_score : Récupère un score et regade si il est dans le top5
+get_partie_score : Récupoère le score d'une partie en paramètre
+set_partie : Défini une partie sur un emplacement passé en paramètre
+move_partie : déplace deux partie dans le tableau des parties
+get_best_score : récupère le meilleur score et son indoce des parties en paramètres
+display_scores : affiche les scores d'une certaine taille de plateau
+navigate_scores : permet de naviguer entre les différents scores (un tableau de score par taille de jeu)
+reset_scores : (réinitialise un tableau de score)
+
+options:
+options : affiche le menu des options
+fast_mode : modification du fast mode
+credits : Affiche les crédits
+color_display : modification de la couleur des bordures
+comment_jouer : affiche les règles
+
+extres/coloredMenu:
+afficheMenu : affiche un menu avec une option colorée
+coloredMenu : permet d'avoir un menu fonctionnel
+
+extres/getkey:
+getKey : retoure la touche presée par l'utilisateur
+ordToChr : converti les ord en chr pour les lettres, sinon renvoie un code particlue pour certaines touches (flèches, échap, entrer)
+
+extres/tallchars:
+makeTall : affiche un texte en grandes lettres (lettre 5*5)
+tallchars : affiche un texte en grandes lettres et le fait clignoter (lettre 5*5)
+
+game/statistics :
+new_tile : ajoute les tuiles aléatoires
+get_best_tile : retourne la meilleure tuile
+get_stats : extrait les stats du fichier
+new_stats : rajoute les statistiques d'une partie (en paramètre) au fichier
+statistics : gere la mise à jour et l'affichage des statistiquzes
+update_stats : met à jour les totaux dans le fichier des statitiques
+display : affichage des statistiques
+delete stats : reinitialise les statistiques
+secondsConv : permet de convertir 4000s en 1h06
+valueConv : permet de convertir 540321 en 540k ou 50000000 en 50M
+
+
+#termcolor #Module téléchargé

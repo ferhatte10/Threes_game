@@ -1,0 +1,59 @@
+Actual version 1.2.1 :
+    - Ajouts de sons sur windows
+    - Ajout programme principal de test des fonctions
+    - Optimisation
+
+Old version 1.2.1 :
+    - Correction des scores en ligne sur linux
+    - Modification légère de "comment jouer"
+    - Aléatoire grandement modifié (nouvelle bibliotheque)
+    - Affichage dans tableau des scores si scores locaux ou en ligne
+
+Old version 1.2.0 :
+    - Ajout des scores en ligne
+    - Corrections bugs fichiers test
+
+Old version 1.1.0 :
+    - Ajout des statistiques
+    - Ajouts de commandes console
+    - Finalisation du fichier test 3
+    - Fix d'un bug de tirage de tuile
+
+Old version 1.0.7 :
+    - Modification et mise à jour des test partie 1 et 2
+    - Mise à jour du cycle_game pour respecter la règle du return True
+    - Création d'une console 
+    - Ajouts fichier de test partie 3
+
+Old version 1.0.6 :
+    - variables françaises traduites en anglais pour uniformiser
+    - Modification de la structure de threes()
+    - Modification du getkey : plus la peine de spécifier les valeurs majuscules ET minuscules
+    - Fichier de test partie 2 terminé
+
+Old version 1.0.5 :
+    - Fichier de test partie 1 terminé
+
+Old version 1.0.4 :
+    - Correction d'un bug au niveau de la restauration de partie
+    - Suppression du get_user_option pour utiliser le get_user_custom déjà existant
+    - Uniformisation de l'option "Retour" et "Quitter"
+    - Corrections orthographiques mineures
+
+Old version 1.0.3 :
+    - Séparétion du retour dans le menu
+    - Trait de séparation dans les menus
+    - Bug de Next_alea changée quand on reprenait la partie
+    - Signes ←/↑/↓/→ dans user_entries
+
+Old version 1.0.2 :
+    -   Problèmes d'affichage Linux
+    -   Saisie controlee pour le nom (seulement A-Z, a-z et 0-9)
+
+Old version 1.0.1 :
+    -   Modification des règles
+    -   Changement de menu des règles
+    -   Ajout d'un espace sur le menu d'accueil
+    
+Old Version 1.0.0 :
+    -    Jeu complet joueable

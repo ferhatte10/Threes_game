@@ -1,0 +1,64 @@
+{
+    "general": {
+        "tScore": 67,
+        "aleaTiles": {
+            "starter2": 3,
+            "12": 0,
+            "starter1": 3,
+            "1": 17,
+            "3": 12,
+            "6": 0,
+            "2": 18
+        },
+        "playingTime": 25.47,
+        "tTiles": 47,
+        "nbGame": 2
+    },
+    "game": [
+        {
+            "tScore": 22,
+            "bScore": 22,
+            "tTime": 14.47,
+            "mScore": 22,
+            "mTime": 0.0,
+            "bTile": 12,
+            "nbGame": 1
+        },
+        {
+            "tScore": 45,
+            "bScore": 45,
+            "tTime": 11.0,
+            "mScore": 45,
+            "mTime": 0.0,
+            "bTile": 24,
+            "nbGame": 1
+        },
+        {
+            "tScore": 0,
+            "bScore": 0,
+            "tTime": 0.0,
+            "mScore": 0,
+            "mTime": 0.0,
+            "bTile": 0,
+            "nbGame": 0
+        },
+        {
+            "tScore": 0,
+            "bScore": 0,
+            "tTime": 0.0,
+            "mScore": 0,
+            "mTime": 0.0,
+            "bTile": 0,
+            "nbGame": 0
+        },
+        {
+            "tScore": 0,
+            "bScore": 0,
+            "tTime": 0.0,
+            "mScore": 0,
+            "mTime": 0.0,
+            "bTile": 0,
+            "nbGame": 0
+        }
+    ]
+}
