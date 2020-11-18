@@ -16,13 +16,13 @@
    Once you're in , click on J or switch the lines to 'comment jouer' to read the notice of  
 
 
-   the game , and discorver our game , you can change it as you wish it an open source code 
+   the game , and discover our game , you can change it as you wish it an open source code 
 
    , share it with your mates .
   
 
 
-   Enjoy it for free (it 6$ in playstore and appstore) .
+   Enjoy it for free (it costs 6$ in playstore and appstore) .
 
 
 
