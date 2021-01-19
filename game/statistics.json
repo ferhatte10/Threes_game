@@ -2,13 +2,13 @@
     "general": {
         "tScore": 67,
         "aleaTiles": {
-            "starter2": 3,
+            "starter2": 4,
             "12": 0,
-            "starter1": 3,
-            "1": 17,
-            "3": 12,
+            "starter1": 4,
+            "1": 19,
+            "3": 17,
             "6": 0,
-            "2": 18
+            "2": 21
         },
         "playingTime": 25.47,
         "tTiles": 47,
@@ -25,13 +25,13 @@
             "nbGame": 1
         },
         {
-            "tScore": 45,
+            "tScore": 68,
             "bScore": 45,
-            "tTime": 11.0,
-            "mScore": 45,
+            "tTime": 16.12,
+            "mScore": 34,
             "mTime": 0.0,
             "bTile": 24,
-            "nbGame": 1
+            "nbGame": 2
         },
         {
             "tScore": 0,
