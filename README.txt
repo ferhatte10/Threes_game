@@ -1,5 +1,5 @@
 
-© 2019 - 2020 AZZ Ilian (Twitter : @ilian572) - SAIDOUN Ferhat (Github : ferhatte10) 
+© 2019 - 2020 IAZZ - SAIDOUN Ferhat (Github : ferhatte10) 
 
 ****************************** WELCOME ***********************************
 
@@ -27,4 +27,4 @@
 
 
 ***************************     Bye    ****************************************** 
-© 2019 - 2020 AZZ Ilian (Twitter : @ilian572) - SAIDOUN Ferhat (Github : ferhatte10) 
+© 2019 - 2020 IAZZ - SAIDOUN Ferhat (Github : ferhatte10)
