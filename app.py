@@ -1,4 +1,4 @@
-# © 2019 - 2020 AZZOUZ Ilian (Twitter : @ilian572) - SAIDOUN Ferhat
+# © 2019 - 2020 IAZZ - SAIDOUN Ferhat (Github : ferhatte10) 
 
 #  -*- coding: utf-8 -*-
 import json
